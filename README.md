@@ -1,5 +1,5 @@
 # Final-Project-DDP-Asdos
-!1st Year College Team Project Using C 
+!1st Year College Team Project Using C  [Team Project]
 
 ## List
 <li> House </li>
